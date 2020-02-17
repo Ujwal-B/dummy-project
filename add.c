@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("Hello world\n");
-	printf("Hi");
+	printf("I'm NO ONE\n");
+	printf("You were fooled all this time thinking that it was a girl ;)\n");
 	return 0;
 }
